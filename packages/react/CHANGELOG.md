@@ -1,5 +1,13 @@
 # @chakra-ui/react
 
+## 3.1.2
+
+### Patch Changes
+
+- [`f8396e0`](https://github.com/chakra-ui/chakra-ui/commit/f8396e02c26d2d931fe2dd3528adf27f96e88b57)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Fix issue where
+  fill.surface layer style doesn't render the correct styles
+
 ## 3.1.1
 
 ### Patch Changes
